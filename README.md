@@ -7,9 +7,9 @@
 
 ## 10.01.2025
 
-- [ ] Den code für die LB verbessern/fehler beheben die die Funktionalität des codes verhindert
+- [x] Den code für die LB verbessern/fehler beheben die die Funktionalität des codes verhindert
 - [ ] meine UML anpassen, da ich eine Klasse beim Code hinzufügen werde
-- [ ] javascript tutorials für eine "erfrischung" anschauen
+- [x] javascript tutorials für eine "erfrischung" anschauen
   
 ✍️ Heute habe ich
 
