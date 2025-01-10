@@ -1,4 +1,7 @@
 # Lern-Periode-8
+-- 
+# Grob-Planung
+Ich möchte im letzten
 
 ## 10.01.2025
 
