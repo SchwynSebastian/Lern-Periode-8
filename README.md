@@ -11,3 +11,6 @@
 - [ ] meine UML anpassen, da ich eine Klasse beim Code hinzufügen werde
 - [ ] javascript tutorials für eine "erfrischung" anschauen
   
+✍️ Heute habe ich
+
+## 19.01.2025
